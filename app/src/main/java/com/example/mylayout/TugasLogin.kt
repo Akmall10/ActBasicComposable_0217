@@ -88,7 +88,7 @@ fun TugasLogin(modifier: Modifier = Modifier) {
                 modifier = Modifier
                     .size(300.dp)
                     .clip(CircleShape)
-                    .border(width = 5.dp, color = Color.White, shape = CircleShape)
+                    .border(width = 6.dp, color = Color(0xFFFFEB3B), shape = CircleShape)
                     .background(color = Color(0xFFE8EAF6)),
                 contentScale = ContentScale.Fit
             )
