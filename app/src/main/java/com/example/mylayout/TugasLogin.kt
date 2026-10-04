@@ -58,7 +58,7 @@ fun TugasLogin(modifier: Modifier = Modifier) {
             Image(
                 painter = painterResource(id = R.drawable.logo),
                 contentDescription = null,
-                modifier = Modifier.size(120.dp),
+                modifier = Modifier.size(140.dp),
                 contentScale = ContentScale.Fit
             )
             Spacer(modifier = Modifier.height(60.dp))
