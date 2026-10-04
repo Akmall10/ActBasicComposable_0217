@@ -80,7 +80,7 @@ fun TugasLogin(modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold,
                 color = Color.White
             )
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(20.dp))
             // Foto profil berbentuk lingkaran
             Image(
                 painter = painterResource(id = R.drawable.foto_profil),
