@@ -50,7 +50,7 @@ fun TugasLogin(modifier: Modifier = Modifier) {
             )
             Text(
                 text = "Ini adalah halaman login,",
-                fontSize = 16.sp,
+                fontSize = 18.sp,
                 color = Color.Black
             )
             Spacer(modifier = Modifier.height(60.dp))
