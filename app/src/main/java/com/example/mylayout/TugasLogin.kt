@@ -64,13 +64,13 @@ fun TugasLogin(modifier: Modifier = Modifier) {
             Spacer(modifier = Modifier.height(60.dp))
             Text(
                 text = "Nama",
-                fontSize = 21.sp,
+                fontSize = 24.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color(0xFFFFEB3B)
             )
             Text(
                 text = nama,
-                fontSize = 21.sp,
+                fontSize = 24.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.White
             )
