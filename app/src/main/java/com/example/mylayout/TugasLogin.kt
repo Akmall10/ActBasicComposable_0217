@@ -86,7 +86,7 @@ fun TugasLogin(modifier: Modifier = Modifier) {
                 painter = painterResource(id = R.drawable.foto_profil),
                 contentDescription = null,
                 modifier = Modifier
-                    .size(300.dp)
+                    .size(280.dp)
                     .clip(CircleShape)
                     .border(width = 6.dp, color = Color(0xFFFFEB3B), shape = CircleShape)
                     .background(color = Color(0xFFE8EAF6)),
