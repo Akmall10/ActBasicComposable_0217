@@ -44,7 +44,7 @@ fun TugasLogin(modifier: Modifier = Modifier) {
         ) {
             Text(
                 text = "Login",
-                fontSize = 40.sp,
+                fontSize = 42.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color(0xFF1A237E)
             )
